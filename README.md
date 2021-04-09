@@ -4,7 +4,7 @@ At this time, Notifiarr is not self hosted so this repo will be used for bug tra
 
 This is not something we are trying to get hundreds of thousands of users using, so you wont see it being announced or advertised. Use it if it is helpful, dont if it isn't! The info here is more of a quick high level overview, you can visit the site for full details or hop on Discord.
 
-[![Discord chat](https://img.shields.io/discord/492590071455940612?style=flat-square&color=4051B5&logo=discord)](https://discord.gg/AURf8Yz)
+[![Discord chat](https://img.shields.io/discord/764440599066574859?style=flat-square&color=4051B5&logo=discord)](https://discord.gg/AURf8Yz)
 
 ## Purpose
 
